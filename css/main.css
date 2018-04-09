@@ -1,4 +1,10 @@
-img:right
-{
-	float: right;
+p {
+	font-family: 'Comic Sans MS';
+	font-size: 14px;
+}
+p.filler{
+	font-family: 'Times New Roman', sans-serif;
+}
+body{
+	background-color: #a03bf5
 }
