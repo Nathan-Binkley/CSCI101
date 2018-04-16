@@ -8,15 +8,15 @@ p.filler {
 body {
 	background-color: #F9F9F9;
 }
-h2.red {
-	color: red;
+.red {
+	color: #FF0000;
 }
 h2 {
-	color: green;
+	color: #00FF00;
 }
 table {
-	background-color:#999999;
+	background-color:#CCCCCC;
 }
 a:hover {
-	color:purple;
+	color:#00003F;
 }
